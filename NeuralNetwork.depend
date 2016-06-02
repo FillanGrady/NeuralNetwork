@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1463121657 source:/home/fillan/Documents/NeuralNetwork/NeuralNetwork/main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<random>
+	<string>
+	<fstream>
+	<stdexcept>
+	<algorithm>
+	<ctime>
+	"NN.h"
+
+1463121447 /home/fillan/Documents/NeuralNetwork/NeuralNetwork/include/NN.h
+	<random>
+	<iostream>
+	<string>
+	<ctime>
+	<algorithm>
+
+1463121469 source:/home/fillan/Documents/NeuralNetwork/NeuralNetwork/src/NN.cpp
+	"NN.h"
+
